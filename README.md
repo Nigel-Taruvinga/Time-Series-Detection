@@ -40,7 +40,7 @@ Python, TensorFlow/Keras, scikit-learn, Streamlit, NumPy, pandas, Matplotlib
 
 ## Notebook
 
-Time_Series_Anomaly_Detection.ipynb contains the full development workflow including data generation, model training, evaluation, and robustness analysis.
+Time Series Detection.ipynb contains the full development workflow including data generation, model training, evaluation, and robustness analysis.
 
 ## Anomaly Types
 
